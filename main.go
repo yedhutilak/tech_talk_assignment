@@ -1,4 +1,4 @@
-package main
+package tech_talk_assignment
 
 import (
 	"fmt"
